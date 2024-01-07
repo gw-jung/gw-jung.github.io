@@ -16,3 +16,9 @@ body {
   .keywords {
     background-color:powderblue;
   }
+
+  .alignCenter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
