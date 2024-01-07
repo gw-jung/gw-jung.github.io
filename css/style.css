@@ -1,6 +1,8 @@
 body {
+    position: relative;
     padding-top: 80px;
     padding-bottom: 80px;
+    min-height: 100%;
 }
 
 .footer {
@@ -8,17 +10,44 @@ body {
     bottom: 0;
     width: 100%;
     /* Set the fixed height of the footer here */
-    height: 50px;
-    line-height: 50px; /* Vertically center the text there */
+    height: 60px;
+    font-size: 14px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    border-top: 1px solid #e1e1e1;
     background-color: #f5f5f5;
   }
 
-  .keywords {
-    background-color:powderblue;
-  }
+.container-body {
+    padding-bottom: 60px;
+}
 
-  .alignCenter {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
+.keywords {
+background-color:powderblue;
+}
+
+.alignCenter {
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+#wrapper{
+height: auto;
+min-height: 100%;
+padding-bottom: 60px;
+}
+
+#flex-container {
+    display:flex;
+    flex-direction:column;
+ 
+    /* fallback height */
+    min-height:100vh;
+ 
+    /* new small viewport height for modern browsers */
+    min-height:100svh;
+ }
+ #flex-container > footer {
+    margin-top:auto;
+ }
