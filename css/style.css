@@ -5,6 +5,14 @@ body {
     min-height: 100%;
 }
 
+td {
+    padding: 0.75em;
+}
+
+table {
+    margin-bottom: 30px;
+}
+
 .footer {
     position: absolute;
     bottom: 0;
@@ -32,7 +40,7 @@ justify-content: center;
 align-items: center;
 }
 
-#wrapper{
+#home{
 height: auto;
 min-height: 100%;
 padding-bottom: 60px;
@@ -51,3 +59,11 @@ padding-bottom: 60px;
  #flex-container > footer {
     margin-top:auto;
  }
+
+ .hidden {
+    display: none;
+ }
+
+#gs-container {
+    margin-bottom: 20px;
+}
