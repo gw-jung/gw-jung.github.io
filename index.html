@@ -21,24 +21,24 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="nav navbar-nav ml-auto">
-                  <li class="nav-item active">
-                    <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                  <li class="nav-item">
+                    <a id="menu_home" class="nav-link" href="#home" data-target="home" data-toggle="collapse">Home</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#">Publications</a>
+                    <a id="menu_publications" class="nav-link" href="#publications" data-target="publications" data-toggle="collapse">Publications</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#">Activities</a>
+                    <a id="menu_challenges" class="nav-link" href="#challenges" data-target="challenges" data-toggle="collapse">Challenges</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#">Contact</a>
+                    <a id="menu_cv" class="nav-link" href="#cv" data-target="cv" data-toggle="collapse">CV</a>
                   </li>
                 </ul>
               </div>
         </div>
     </div>
 
-    <div class="container container-body" id="wrapper">
+    <div class="container container-body" id="home">
         <div class="row">
             <div class="col-md-8">
                 <h3>
@@ -68,8 +68,45 @@
                 <img src="img/gwjung-green.jpg" width="90%">
             </div>
         </div>
+
     </div>
 
+    <div class="container container-body" id="publications">
+      <div class="row">
+        <div class="col-md-12" id="gs-container">
+          <p>
+            <strong>Google Scholar:</strong> <a href="https://scholar.google.com/citations?user=byhoe3YAAAAJ&hl=en">https://scholar.google.com/citations?user=byhoe3YAAAAJ&hl=en</a>
+          </p>
+        </div>
+        <div class="col-md-12" id="table-container">
+          <h5>
+            Publication List
+          </h5>
+          <br>
+        </div>
+      </div>
+    </div>
+ 
+    <div class="container container-body" id="challenges">
+      <div class="row">
+        <div class="col-md-12">
+          <p>
+            Under Construction!🚧
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="container container-body" id="cv">
+      <div class="row">
+        <div class="col-md-12">
+          <p>
+            Will be prepared soon!🔨
+          </p>
+        </div>
+      </div>
+    </div>
+    
     <footer class="footer">
         <p class="text-center .col-md-* text-muted">
             Copyright ©2024 by Gyuwon Jung
@@ -81,5 +118,8 @@
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+    <script src="./js/switch.js"></script>
+    <script src="./js/publication_read.js"></script>
   </body>
 </html>
