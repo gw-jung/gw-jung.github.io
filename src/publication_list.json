@@ -1,30 +1,138 @@
 [
     {
-        "id": 1,
-        "title": "Too Much Information: Assessing Privacy Risks of Contact Trace Data Disclosure on People With COVID-19 in South Korea",
-        "authors": "Gyuwon Jung, Hyunsoo Lee, Auk Kim, Uichin Lee",
-        "year": "2020",
-        "journal": "Frontiers in Public Health 8 (2020)"
+        "id": 16,
+        "title": "DeepStress: Supporting Stressful Context Sensemaking in Personal Informatics Systems Using a Quasi-experimental Approach",
+        "authors": "Gyuwon Jung, Sangjun Park, Uichin Lee",
+        "year": "2024",
+        "journal": "CHI '24: Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems",
+        "doi": "#"
     },
     {
-        "id": 2,
-        "title": "\"Good Enough!\": Flexible Goal Achievement with Margin-based Outcome Evaluation",
-        "authors": "Gyuwon Jung, Jio Oh, Youjin Jung, Juho Sun, Ha-Kyung Kong, Uichin Lee",
-        "year": "2021",
-        "journal": "Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems"
+        "id": 15,
+        "title": "A Tutorial on Matching-based Causal Analysis of Human Behaviors Using Smartphone Sensor Data",
+        "authors": "Gyuwon Jung, Sangjun Park, Eun-Yeol Ma, Heeyoung Kim, Uichin Lee",
+        "year": "2024",
+        "journal": "ACM Computing Surveys (To appear)",
+        "doi": "https://doi.org/10.1145/3648356"
     },
     {
-        "id": 3,
-        "title": "Toward Data-Driven Digital Therapeutics Analytics: Literature Review and Research Directions",
-        "authors": "Uichin Lee, Gyuwon Jung, Eun-Yeol Ma, Jin San Kim, Heepyung Kim, Jumabek Alikhanov, Youngtae Noh, Heeyoung Kim",
-        "year": "2023",
-        "journal": "IEEE/CAA Journal of Automatica Sinica 10.1 (2023)"
-    },
-    {
-        "id": 4,
+        "id": 14,
         "title": "\"Enjoy, but Moderately!\": Designing a Social Companion Robot for Social Engagement and Behavior Moderation in Solitary Drinking Context",
         "authors": "Yugyeong Jung, Gyuwon Jung, Sooyeon Jeong, Chaewon Kim, Woontack Woo, Hwajung Hong, Uichin Lee",
         "year": "2023",
-        "journal": "Proceedings of the ACM on Human-Computer Interaction 7 (CSCW 2)"
+        "journal": "Proceedings of the ACM on Human-Computer Interaction, Volume 7, Issue CSCW2",
+        "doi": "https://doi.org/10.1145/3610028"
+    },
+    {
+        "id": 13,
+        "title": "Data-driven Digital Therapeutics Analytics",
+        "authors": "Uichin Lee, Gyuwon Jung, Sangjun Park, Eun-Yeol Ma, Heeyoung Kim, Yonggeon Lee, Youngtae Noh",
+        "year": "2023",
+        "journal": "2023 IEEE International Conference on Big Data and Smart Computing (BigComp)",
+        "doi": "https://doi.org/10.1109/BigComp57234.2023.00093"
+    },
+    {
+        "id": 12,
+        "title": "Causal Analytic Process for Mobile Health Data",
+        "authors": "Gyuwon Jung, Sangjun Park, Uichin Lee, Eun-Yeol Ma, Heeyoung Kim",
+        "year": "2023",
+        "journal": "2023 IEEE International Conference on Big Data and Smart Computing (BigComp)",
+        "doi": "https://doi.org/10.1109/BigComp57234.2023.00088"
+    },
+    {
+        "id": 11,
+        "title": "Toward Data-Driven Digital Therapeutics Analytics: Literature Review and Research Directions",
+        "authors": "Uichin Lee, Gyuwon Jung, Eun-Yeol Ma, Jin San Kim, Heepyung Kim, Jumabek Alikhanov, Youngtae Noh, Heeyoung Kim",
+        "year": "2023",
+        "journal": "IEEE/CAA Journal of Automatica Sinica, Volume 10, Issue 1",
+        "doi": "https://doi.org/10.1109/JAS.2023.123015"
+    },
+    {
+        "id": 10,
+        "title": "Social-Spiritual Face: Designing Social Reading Support for Spiritual Well-being",
+        "authors": "Inyeop Kim, Minsam Ko, Joonyoung Park, Sung Wook Moon, Gyuwon Jung, Youn-kyung Lim, Uichin Lee",
+        "year": "2022",
+        "journal": "Proceedings of the ACM on Human-Computer Interaction, Volume 6, Issue CSCW2",
+        "doi": "https://doi.org/10.1109/JAS.2023.123015"
+    },
+    {
+        "id": 9,
+        "title": "CareMouse: An Interactive Mouse System that Supports Wrist Stretching Exercises in the Workplace",
+        "authors": "Gyuwon Jung, Youwon Shin, Jieun Lim, Uichin Lee",
+        "year": "2022",
+        "journal": "CHI EA '22: Extended Abstracts of the 2022 CHI Conference on Human Factors in Computing Systems",
+        "doi": "https://doi.org/10.1145/3491101.3519857"
+    },
+    {
+        "id": 8,
+        "title": "Causal Analysis of Observational Mobile Sensor Data: A Comparative Study",
+        "authors": "Yongshin Kim, Panyu Zhang, Gyuwon Jung, Heepyung Kim, Uichin Lee",
+        "year": "2021",
+        "journal": "한국정보과학회 학술발표논문집, 2021",
+        "doi": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10582857"
+    },
+    {
+        "id": 7,
+        "title": "\"Good Enough!\": Flexible Goal Achievement with Margin-based Outcome Evaluation",
+        "authors": "Gyuwon Jung, Jio Oh, Youjin Jung, Juho Sun, Ha-Kyung Kong, Uichin Lee",
+        "year": "2021",
+        "journal": "CHI '21: Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems",
+        "doi": "https://doi.org/10.1145/3411764.3445608"
+    },
+    {
+        "id": 6,
+        "title": "Cheersbot: Drinking Companion Robot That Provides Physical/Auditory Interaction to Improve Loneliness",
+        "authors": "Chaewon Kim, Yugyeong Jung, Gyuwon Jung, Woontack Woo, Uichin Lee",
+        "year": "2021",
+        "journal": "한국 HCI 학회 학술대회, 2021",
+        "doi": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10530277"
+    },
+    {
+        "id": 5,
+        "title": "BeActive: Encouraging Physical Activities with Just-in-time Health Intervention and Micro Financial Incentives",
+        "authors": "Juho Sun, Sangkeun Park, Gyuwon Jung, Yong Jeong, Uichin Lee, Kyong-Mee Chung, Changseok Lee, Heewon Kim, Suhyon Ahn, Ahsan Khandoker, Leontios Hadjileontiadis",
+        "year": "2020",
+        "journal": "AsianCHI '20: Proceedings of the 2020 Symposium on Emerging Research from Asia and on Asian Contexts and Cultures",
+        "doi": "https://doi.org/10.1145/3391203.3391206"
+    },
+    {
+        "id": 4,
+        "title": "Too Much Information: Assessing Privacy Risks of Contact Trace Data Disclosure on People With COVID-19 in South Korea",
+        "authors": "Gyuwon Jung, Hyunsoo Lee, Auk Kim, Uichin Lee",
+        "year": "2020",
+        "journal": "Frontiers in Public Health, Volume 8",
+        "doi": "https://doi.org/10.3389/fpubh.2020.00305"
+    },
+    {
+        "id": 3,
+        "title": "Mom's Tray: Real-Time Dietary Monitoring System",
+        "authors": "Gyuwon Jung, Andrzej Zarzycki, Ji-Hyun Lee",
+        "year": "2017",
+        "journal": "SA '17: SIGGRAPH Asia 2017 Mobile Graphics & Interactive Applications",
+        "doi": "https://doi.org/10.1145/3132787.3139196"
+    },
+    {
+        "id": 2,
+        "title": "Let's FOCUS: Mitigating Mobile Phone Use in College Classrooms",
+        "authors": "Inyeop Kim, Gyuwon Jung, Hayoung Jung, Minsam Ko, Uichin Lee",
+        "year": "2017",
+        "journal": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 1.3 (2017)",
+        "doi": "https://doi.org/10.1145/3130928"
+    },
+    {
+        "id": 1,
+        "title": "Let's FOCUS: Location-Based Intervention Tool to Mitigate Phone Use in College Classrooms",
+        "authors": "Inyeop Kim, Gyuwon Jung, Hayoung Jung, Minsam Ko, Uichin Lee",
+        "year": "2017",
+        "journal": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 1.3 (2017)",
+        "doi": "https://doi.org/10.1145/3130928"
+    },
+    {
+        "id": 0,
+        "title": "Understanding Smartphone Usage during the University Class And Exploring Design Factors of Intervention System to Promote Concentration in Class",
+        "authors": "Gyuwon Jung, Inyeop Kim, Hayoung Jung, Uichin Lee",
+        "year": "2017",
+        "journal": "한국 HCI 학회 학술대회, 2017",
+        "doi": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07122519"
     }
 ]
