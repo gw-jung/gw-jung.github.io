@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "Too Much Information: Assessing Privacy Risks of Contact Trace Data Disclosure on People With COVID-19 in South Korea",
+        "authors": "Gyuwon Jung, Hyunsoo Lee, Auk Kim, Uichin Lee",
+        "year": "2020",
+        "journal": "Frontiers in Public Health 8 (2020)"
+    },
+    {
+        "id": 2,
+        "title": "\"Good Enough!\": Flexible Goal Achievement with Margin-based Outcome Evaluation",
+        "authors": "Gyuwon Jung, Jio Oh, Youjin Jung, Juho Sun, Ha-Kyung Kong, Uichin Lee",
+        "year": "2021",
+        "journal": "Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems"
+    },
+    {
+        "id": 3,
+        "title": "Toward Data-Driven Digital Therapeutics Analytics: Literature Review and Research Directions",
+        "authors": "Uichin Lee, Gyuwon Jung, Eun-Yeol Ma, Jin San Kim, Heepyung Kim, Jumabek Alikhanov, Youngtae Noh, Heeyoung Kim",
+        "year": "2023",
+        "journal": "IEEE/CAA Journal of Automatica Sinica 10.1 (2023)"
+    },
+    {
+        "id": 4,
+        "title": "\"Enjoy, but Moderately!\": Designing a Social Companion Robot for Social Engagement and Behavior Moderation in Solitary Drinking Context",
+        "authors": "Yugyeong Jung, Gyuwon Jung, Sooyeon Jeong, Chaewon Kim, Woontack Woo, Hwajung Hong, Uichin Lee",
+        "year": "2023",
+        "journal": "Proceedings of the ACM on Human-Computer Interaction 7 (CSCW 2)"
+    }
+]
