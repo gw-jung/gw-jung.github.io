@@ -35,12 +35,18 @@ fetch('https://raw.githubusercontent.com/gw-jung/gw-jung.github.io/main/src/publ
             const journal = document.createElement('em');
             journal.textContent = item.journal;
             journal.classList.add('journal');
+
+            const pdf = document.createElement('a');
+            pdf.textContent = '[PDF]';
+            pdf.href = item.pdf;
             
             td.appendChild(title);
             td.appendChild(document.createElement('br'));
             td.appendChild(authors);
             td.appendChild(document.createElement('br'));
             td.appendChild(journal);
+            td.appendChild(document.createElement('br'));
+            td.appendChild(pdf);
             tr.appendChild(td);
             tbody.appendChild(tr);
         });

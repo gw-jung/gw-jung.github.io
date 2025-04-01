@@ -1,5 +1,29 @@
 [
     {
+        "id": 21,
+        "title": "Counterfactual Explanations in Personal Informatics for Personalized Mental Health Management",
+        "authors": "Panyu Zhang, Gyuwon Jung, Uzair Ahmed, Uichin Lee",
+        "year": "2025",
+        "journal": "CHI EA '25: CHI Conference on Human Factors in Computing Systems Extended Abstracts",
+        "doi": "#"
+    },
+    {
+        "id": 20,
+        "title": "Peerspective: A Study on Reciprocal Tracking for Self-awareness and Relational Insight",
+        "authors": "Kwangyoung Lee, Yeohyun Jung, Gyuwon Jung, Xi Lu, Hwajung Hong",
+        "year": "2025",
+        "journal": "CHI '25: Proceedings of the CHI Conference on Human Factors in Computing Systems",
+        "doi": "#"
+    },
+    {
+        "id": 19,
+        "title": "CounterStress: Enhancing Stress Coping Planning through Counterfactual Explanations in Personal Informatics",
+        "authors": "Gyuwon Jung, Uichin Lee",
+        "year": "2025",
+        "journal": "CHI '25: Proceedings of the CHI Conference on Human Factors in Computing Systems",
+        "doi": "#"
+    },
+    {
         "id": 18,
         "title": "Counterfactual Explanations in Personal Informatics for Personalized Mental Health Management",
         "authors": "Gyuwon Jung, Uichin Lee",
