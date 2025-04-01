@@ -27,7 +27,12 @@ table {
   }
 
 .container-body {
+    display: none;
     padding-bottom: 60px;
+}
+
+.container-body.active {
+    display: block;
 }
 
 .keywords {
@@ -58,10 +63,6 @@ padding-bottom: 60px;
  }
  #flex-container > footer {
     margin-top:auto;
- }
-
- .hidden {
-    display: none;
  }
 
 #gs-container {
