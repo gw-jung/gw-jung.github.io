@@ -5,7 +5,8 @@
         "authors": "Panyu Zhang, Gyuwon Jung, Uzair Ahmed, Uichin Lee",
         "year": "2025",
         "journal": "CHI EA '25: CHI Conference on Human Factors in Computing Systems Extended Abstracts",
-        "doi": "#"
+        "doi": "#publications",
+        "pdf": "#publications"
     },
     {
         "id": 20,
@@ -13,7 +14,8 @@
         "authors": "Kwangyoung Lee, Yeohyun Jung, Gyuwon Jung, Xi Lu, Hwajung Hong",
         "year": "2025",
         "journal": "CHI '25: Proceedings of the CHI Conference on Human Factors in Computing Systems",
-        "doi": "#"
+        "doi": "#publications",
+        "pdf": "#publications"
     },
     {
         "id": 19,
@@ -21,7 +23,7 @@
         "authors": "Gyuwon Jung, Uichin Lee",
         "year": "2025",
         "journal": "CHI '25: Proceedings of the CHI Conference on Human Factors in Computing Systems",
-        "doi": "https://doi.org/10.1145/3706598.3713730",
+        "doi": "#publications",
         "pdf": "pdf/019.pdf"
     },
     {
