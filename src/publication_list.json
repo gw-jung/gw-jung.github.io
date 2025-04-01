@@ -21,7 +21,8 @@
         "authors": "Gyuwon Jung, Uichin Lee",
         "year": "2025",
         "journal": "CHI '25: Proceedings of the CHI Conference on Human Factors in Computing Systems",
-        "doi": "#"
+        "doi": "https://doi.org/10.1145/3706598.3713730",
+        "pdf": "pdf/019.pdf"
     },
     {
         "id": 18,
@@ -29,7 +30,8 @@
         "authors": "Gyuwon Jung, Uichin Lee",
         "year": "2024",
         "journal": "UbiComp '24: Companion of the 2024 on ACM International Joint Conference on Pervasive and Ubiquitous Computing",
-        "doi": "https://doi.org/10.1145/3675094.3678427"
+        "doi": "https://doi.org/10.1145/3675094.3678427",
+        "pdf": "pdf/018.pdf"
     },
     {
         "id": 17,
@@ -37,7 +39,8 @@
         "authors": "Panyu Zhang, Gyuwon Jung, Jumabek Alikhanov, Uzair Ahmed, Uichin Lee",
         "year": "2024",
         "journal": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Volume 8, Issue 3",
-        "doi": "https://doi.org/10.1145/3678578"
+        "doi": "https://doi.org/10.1145/3678578",
+        "pdf": "pdf/017.pdf"
     },
     {
         "id": 16,
@@ -45,7 +48,8 @@
         "authors": "Gyuwon Jung, Sangjun Park, Uichin Lee",
         "year": "2024",
         "journal": "CHI '24: Proceedings of the CHI Conference on Human Factors in Computing Systems",
-        "doi": "https://doi.org/10.1145/3613904.3642766"
+        "doi": "https://doi.org/10.1145/3613904.3642766",
+        "pdf": "pdf/016.pdf"
     },
     {
         "id": 15,
@@ -53,7 +57,8 @@
         "authors": "Gyuwon Jung, Sangjun Park, Eun-Yeol Ma, Heeyoung Kim, Uichin Lee",
         "year": "2024",
         "journal": "ACM Computing Surveys, Volume 56, Issue 9",
-        "doi": "https://doi.org/10.1145/3648356"
+        "doi": "https://doi.org/10.1145/3648356",
+        "pdf": "pdf/015.pdf"
     },
     {
         "id": 14,
@@ -61,7 +66,8 @@
         "authors": "Yugyeong Jung, Gyuwon Jung, Sooyeon Jeong, Chaewon Kim, Woontack Woo, Hwajung Hong, Uichin Lee",
         "year": "2023",
         "journal": "Proceedings of the ACM on Human-Computer Interaction, Volume 7, Issue CSCW2",
-        "doi": "https://doi.org/10.1145/3610028"
+        "doi": "https://doi.org/10.1145/3610028",
+        "pdf": "pdf/014.pdf"
     },
     {
         "id": 13,
@@ -69,7 +75,8 @@
         "authors": "Uichin Lee, Gyuwon Jung, Sangjun Park, Eun-Yeol Ma, Heeyoung Kim, Yonggeon Lee, Youngtae Noh",
         "year": "2023",
         "journal": "2023 IEEE International Conference on Big Data and Smart Computing (BigComp)",
-        "doi": "https://doi.org/10.1109/BigComp57234.2023.00093"
+        "doi": "https://doi.org/10.1109/BigComp57234.2023.00093",
+        "pdf": "pdf/013.pdf"
     },
     {
         "id": 12,
@@ -77,7 +84,8 @@
         "authors": "Gyuwon Jung, Sangjun Park, Uichin Lee, Eun-Yeol Ma, Heeyoung Kim",
         "year": "2023",
         "journal": "2023 IEEE International Conference on Big Data and Smart Computing (BigComp)",
-        "doi": "https://doi.org/10.1109/BigComp57234.2023.00088"
+        "doi": "https://doi.org/10.1109/BigComp57234.2023.00088",
+        "pdf": "pdf/012.pdf"
     },
     {
         "id": 11,
@@ -85,7 +93,8 @@
         "authors": "Uichin Lee, Gyuwon Jung, Eun-Yeol Ma, Jin San Kim, Heepyung Kim, Jumabek Alikhanov, Youngtae Noh, Heeyoung Kim",
         "year": "2023",
         "journal": "IEEE/CAA Journal of Automatica Sinica, Volume 10, Issue 1",
-        "doi": "https://doi.org/10.1109/JAS.2023.123015"
+        "doi": "https://doi.org/10.1109/JAS.2023.123015",
+        "pdf": "pdf/011.pdf"
     },
     {
         "id": 10,
@@ -93,7 +102,8 @@
         "authors": "Inyeop Kim, Minsam Ko, Joonyoung Park, Sung Wook Moon, Gyuwon Jung, Youn-kyung Lim, Uichin Lee",
         "year": "2022",
         "journal": "Proceedings of the ACM on Human-Computer Interaction, Volume 6, Issue CSCW2",
-        "doi": "https://doi.org/10.1145/3555162"
+        "doi": "https://doi.org/10.1145/3555162",
+        "pdf": "pdf/010.pdf"
     },
     {
         "id": 9,
@@ -101,7 +111,8 @@
         "authors": "Gyuwon Jung, Youwon Shin, Jieun Lim, Uichin Lee",
         "year": "2022",
         "journal": "CHI EA '22: CHI Conference on Human Factors in Computing Systems Extended Abstracts",
-        "doi": "https://doi.org/10.1145/3491101.3519857"
+        "doi": "https://doi.org/10.1145/3491101.3519857",
+        "pdf": "pdf/009.pdf"
     },
     {
         "id": 8,
@@ -109,7 +120,8 @@
         "authors": "Yongshin Kim, Panyu Zhang, Gyuwon Jung, Heepyung Kim, Uichin Lee",
         "year": "2021",
         "journal": "한국정보과학회 학술발표논문집, 2021",
-        "doi": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10582857"
+        "doi": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10582857",
+        "pdf": "pdf/008.pdf"
     },
     {
         "id": 7,
@@ -117,7 +129,8 @@
         "authors": "Gyuwon Jung, Jio Oh, Youjin Jung, Juho Sun, Ha-Kyung Kong, Uichin Lee",
         "year": "2021",
         "journal": "CHI '21: Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems",
-        "doi": "https://doi.org/10.1145/3411764.3445608"
+        "doi": "https://doi.org/10.1145/3411764.3445608",
+        "pdf": "pdf/007.pdf"
     },
     {
         "id": 6,
@@ -125,7 +138,8 @@
         "authors": "Chaewon Kim, Yugyeong Jung, Gyuwon Jung, Woontack Woo, Uichin Lee",
         "year": "2021",
         "journal": "한국 HCI 학회 학술대회, 2021",
-        "doi": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10530277"
+        "doi": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10530277",
+        "pdf": "pdf/006.pdf"
     },
     {
         "id": 5,
@@ -133,7 +147,8 @@
         "authors": "Juho Sun, Sangkeun Park, Gyuwon Jung, Yong Jeong, Uichin Lee, Kyong-Mee Chung, Changseok Lee, Heewon Kim, Suhyon Ahn, Ahsan Khandoker, Leontios Hadjileontiadis",
         "year": "2020",
         "journal": "AsianCHI '20: Proceedings of the 2020 Symposium on Emerging Research from Asia and on Asian Contexts and Cultures",
-        "doi": "https://doi.org/10.1145/3391203.3391206"
+        "doi": "https://doi.org/10.1145/3391203.3391206",
+        "pdf": "pdf/005.pdf"
     },
     {
         "id": 4,
@@ -141,7 +156,8 @@
         "authors": "Gyuwon Jung, Hyunsoo Lee, Auk Kim, Uichin Lee",
         "year": "2020",
         "journal": "Frontiers in Public Health, Volume 8",
-        "doi": "https://doi.org/10.3389/fpubh.2020.00305"
+        "doi": "https://doi.org/10.3389/fpubh.2020.00305",
+        "pdf": "pdf/004.pdf"
     },
     {
         "id": 3,
@@ -149,7 +165,8 @@
         "authors": "Gyuwon Jung, Andrzej Zarzycki, Ji-Hyun Lee",
         "year": "2017",
         "journal": "SA '17: SIGGRAPH Asia 2017 Mobile Graphics & Interactive Applications",
-        "doi": "https://doi.org/10.1145/3132787.3139196"
+        "doi": "https://doi.org/10.1145/3132787.3139196",
+        "pdf": "pdf/003.pdf"
     },
     {
         "id": 2,
@@ -157,7 +174,8 @@
         "authors": "Inyeop Kim, Gyuwon Jung, Hayoung Jung, Minsam Ko, Uichin Lee",
         "year": "2017",
         "journal": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Volume 1, Issue 3",
-        "doi": "https://doi.org/10.1145/3130928"
+        "doi": "https://doi.org/10.1145/3130928",
+        "pdf": "pdf/002.pdf"
     },
     {
         "id": 1,
@@ -165,7 +183,8 @@
         "authors": "Inyeop Kim, Gyuwon Jung, Hayoung Jung, Minsam Ko, Uichin Lee",
         "year": "2017",
         "journal": "UbiComp '17: Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium on Wearable Computers",
-        "doi": "https://doi.org/10.1145/3123024.3123165"
+        "doi": "https://doi.org/10.1145/3123024.3123165",
+        "pdf": "pdf/001.pdf"
     },
     {
         "id": 0,
@@ -173,6 +192,7 @@
         "authors": "Gyuwon Jung, Inyeop Kim, Hayoung Jung, Uichin Lee",
         "year": "2017",
         "journal": "한국 HCI 학회 학술대회, 2017",
-        "doi": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07122519"
+        "doi": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07122519",
+        "pdf": "pdf/000.pdf"
     }
 ]
