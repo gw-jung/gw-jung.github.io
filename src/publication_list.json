@@ -1,12 +1,12 @@
 [
     {
         "id": 21,
-        "title": "Counterfactual Explanations in Personal Informatics for Personalized Mental Health Management",
+        "title": "CausalCFF: Causal Analysis between User Stress Level and Contextually Filtered Features Extracted from Mobile Sensor Data",
         "authors": "Panyu Zhang, Gyuwon Jung, Uzair Ahmed, Uichin Lee",
         "year": "2025",
         "journal": "CHI EA '25: CHI Conference on Human Factors in Computing Systems Extended Abstracts",
-        "doi": "#publications",
-        "pdf": "#publications"
+        "doi": "#",
+        "pdf": "#"
     },
     {
         "id": 20,
@@ -14,8 +14,8 @@
         "authors": "Kwangyoung Lee, Yeohyun Jung, Gyuwon Jung, Xi Lu, Hwajung Hong",
         "year": "2025",
         "journal": "CHI '25: Proceedings of the CHI Conference on Human Factors in Computing Systems",
-        "doi": "#publications",
-        "pdf": "#publications"
+        "doi": "#",
+        "pdf": "#"
     },
     {
         "id": 19,
@@ -23,7 +23,7 @@
         "authors": "Gyuwon Jung, Uichin Lee",
         "year": "2025",
         "journal": "CHI '25: Proceedings of the CHI Conference on Human Factors in Computing Systems",
-        "doi": "#publications",
+        "doi": "#",
         "pdf": "pdf/019.pdf"
     },
     {
