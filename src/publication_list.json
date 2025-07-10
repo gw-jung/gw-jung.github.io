@@ -1,200 +1,209 @@
 [
     {
-        "id": 21,
+        "id": "jung2025designing",
+        "title": "Designing a Visual Analytics Tool to Support Data Analysis Tasks of Digital Mental Health Interventions: Case Study",
+        "authors": "Gyuwon Jung, Heejeong Lim, Kyungsik Han, Hyungsook Kim, Uichin Lee",
+        "year": "2025",
+        "journal": "JMIR Human Factors, Volume 12, e64967",
+        "doi": "https://doi.org/10.2196/64967",
+        "pdf": "pdf/jung2025designing.pdf"
+    },
+    {
+        "id": "zhang2025causalcff",
         "title": "CausalCFF: Causal Analysis between User Stress Level and Contextually Filtered Features Extracted from Mobile Sensor Data",
         "authors": "Panyu Zhang, Gyuwon Jung, Uzair Ahmed, Uichin Lee",
         "year": "2025",
         "journal": "CHI EA '25: CHI Conference on Human Factors in Computing Systems Extended Abstracts",
         "doi": "https://doi.org/10.1145/3706599.3719776",
-        "pdf": "pdf/021.pdf"
+        "pdf": "pdf/zhang2025causalcff.pdf"
     },
     {
-        "id": 20,
+        "id": "lee2025peerspective",
         "title": "Peerspective: A Study on Reciprocal Tracking for Self-awareness and Relational Insight",
         "authors": "Kwangyoung Lee, Yeohyun Jung, Gyuwon Jung, Xi Lu, Hwajung Hong",
         "year": "2025",
         "journal": "CHI '25: Proceedings of the CHI Conference on Human Factors in Computing Systems",
         "doi": "https://doi.org/10.1145/3706598.3713404",
-        "pdf": "pdf/020.pdf"
+        "pdf": "pdf/lee2025peerspective.pdf"
     },
     {
-        "id": 19,
+        "id": "jung2025counterstress",
         "title": "CounterStress: Enhancing Stress Coping Planning through Counterfactual Explanations in Personal Informatics",
         "authors": "Gyuwon Jung, Uichin Lee",
         "year": "2025",
         "journal": "CHI '25: Proceedings of the CHI Conference on Human Factors in Computing Systems",
         "doi": "https://doi.org/10.1145/3706598.3713730",
-        "pdf": "pdf/019.pdf"
+        "pdf": "pdf/jung2025counterstress.pdf"
     },
     {
-        "id": 18,
+        "id": "jung2024counterfactual",
         "title": "Counterfactual Explanations in Personal Informatics for Personalized Mental Health Management",
         "authors": "Gyuwon Jung, Uichin Lee",
         "year": "2024",
         "journal": "UbiComp '24: Companion of the 2024 on ACM International Joint Conference on Pervasive and Ubiquitous Computing",
         "doi": "https://doi.org/10.1145/3675094.3678427",
-        "pdf": "pdf/018.pdf"
+        "pdf": "pdf/jung2024counterfactual.pdf"
     },
     {
-        "id": 17,
+        "id": "zhang2024reproducible",
         "title": "A Reproducible Stress Prediction Pipeline with Mobile Sensor Data",
         "authors": "Panyu Zhang, Gyuwon Jung, Jumabek Alikhanov, Uzair Ahmed, Uichin Lee",
         "year": "2024",
         "journal": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Volume 8, Issue 3",
         "doi": "https://doi.org/10.1145/3678578",
-        "pdf": "pdf/017.pdf"
+        "pdf": "pdf/zhang2024reproducible.pdf"
     },
     {
-        "id": 16,
+        "id": "jung2024deepstress",
         "title": "DeepStress: Supporting Stressful Context Sensemaking in Personal Informatics Systems Using a Quasi-experimental Approach",
         "authors": "Gyuwon Jung, Sangjun Park, Uichin Lee",
         "year": "2024",
         "journal": "CHI '24: Proceedings of the CHI Conference on Human Factors in Computing Systems",
         "doi": "https://doi.org/10.1145/3613904.3642766",
-        "pdf": "pdf/016.pdf"
+        "pdf": "pdf/jung2024deepstress.pdf"
     },
     {
-        "id": 15,
+        "id": "jung2024tutorial",
         "title": "Tutorial on Matching-based Causal Analysis of Human Behaviors Using Smartphone Sensor Data",
         "authors": "Gyuwon Jung, Sangjun Park, Eun-Yeol Ma, Heeyoung Kim, Uichin Lee",
         "year": "2024",
         "journal": "ACM Computing Surveys, Volume 56, Issue 9",
         "doi": "https://doi.org/10.1145/3648356",
-        "pdf": "pdf/015.pdf"
+        "pdf": "pdf/jung2024tutorial.pdf"
     },
     {
-        "id": 14,
+        "id": "jung2023enjoy",
         "title": "\"Enjoy, but Moderately!\": Designing a Social Companion Robot for Social Engagement and Behavior Moderation in Solitary Drinking Context",
         "authors": "Yugyeong Jung, Gyuwon Jung, Sooyeon Jeong, Chaewon Kim, Woontack Woo, Hwajung Hong, Uichin Lee",
         "year": "2023",
         "journal": "Proceedings of the ACM on Human-Computer Interaction, Volume 7, Issue CSCW2",
         "doi": "https://doi.org/10.1145/3610028",
-        "pdf": "pdf/014.pdf"
+        "pdf": "pdf/jung2023enjoy.pdf"
     },
     {
-        "id": 13,
+        "id": "lee2023data",
         "title": "Data-driven Digital Therapeutics Analytics",
         "authors": "Uichin Lee, Gyuwon Jung, Sangjun Park, Eun-Yeol Ma, Heeyoung Kim, Yonggeon Lee, Youngtae Noh",
         "year": "2023",
         "journal": "2023 IEEE International Conference on Big Data and Smart Computing (BigComp)",
         "doi": "https://doi.org/10.1109/BigComp57234.2023.00093",
-        "pdf": "pdf/013.pdf"
+        "pdf": "pdf/lee2023data.pdf"
     },
     {
-        "id": 12,
+        "id": "jung2023causal",
         "title": "Causal Analytic Process for Mobile Health Data",
         "authors": "Gyuwon Jung, Sangjun Park, Uichin Lee, Eun-Yeol Ma, Heeyoung Kim",
         "year": "2023",
         "journal": "2023 IEEE International Conference on Big Data and Smart Computing (BigComp)",
         "doi": "https://doi.org/10.1109/BigComp57234.2023.00088",
-        "pdf": "pdf/012.pdf"
+        "pdf": "pdf/jung2023causal.pdf"
     },
     {
-        "id": 11,
+        "id": "lee2023toward",
         "title": "Toward Data-Driven Digital Therapeutics Analytics: Literature Review and Research Directions",
         "authors": "Uichin Lee, Gyuwon Jung, Eun-Yeol Ma, Jin San Kim, Heepyung Kim, Jumabek Alikhanov, Youngtae Noh, Heeyoung Kim",
         "year": "2023",
         "journal": "IEEE/CAA Journal of Automatica Sinica, Volume 10, Issue 1",
         "doi": "https://doi.org/10.1109/JAS.2023.123015",
-        "pdf": "pdf/011.pdf"
+        "pdf": "pdf/lee2023toward.pdf"
     },
     {
-        "id": 10,
+        "id": "kim2022social",
         "title": "Social-Spiritual Face: Designing Social Reading Support for Spiritual Well-being",
         "authors": "Inyeop Kim, Minsam Ko, Joonyoung Park, Sung Wook Moon, Gyuwon Jung, Youn-kyung Lim, Uichin Lee",
         "year": "2022",
         "journal": "Proceedings of the ACM on Human-Computer Interaction, Volume 6, Issue CSCW2",
         "doi": "https://doi.org/10.1145/3555162",
-        "pdf": "pdf/010.pdf"
+        "pdf": "pdf/kim2022social.pdf"
     },
     {
-        "id": 9,
+        "id": "jung2022caremouse",
         "title": "CareMouse: An Interactive Mouse System that Supports Wrist Stretching Exercises in the Workplace",
         "authors": "Gyuwon Jung, Youwon Shin, Jieun Lim, Uichin Lee",
         "year": "2022",
         "journal": "CHI EA '22: CHI Conference on Human Factors in Computing Systems Extended Abstracts",
         "doi": "https://doi.org/10.1145/3491101.3519857",
-        "pdf": "pdf/009.pdf"
+        "pdf": "pdf/jung2022caremouse.pdf"
     },
     {
-        "id": 8,
+        "id": "kim2021causal",
         "title": "Causal Analysis of Observational Mobile Sensor Data: A Comparative Study",
         "authors": "Yongshin Kim, Panyu Zhang, Gyuwon Jung, Heepyung Kim, Uichin Lee",
         "year": "2021",
         "journal": "한국정보과학회 학술발표논문집, 2021",
         "doi": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10582857",
-        "pdf": "pdf/008.pdf"
+        "pdf": "pdf/kim2021causal.pdf"
     },
     {
-        "id": 7,
+        "id": "jung2021good",
         "title": "\"Good Enough!\": Flexible Goal Achievement with Margin-based Outcome Evaluation",
         "authors": "Gyuwon Jung, Jio Oh, Youjin Jung, Juho Sun, Ha-Kyung Kong, Uichin Lee",
         "year": "2021",
         "journal": "CHI '21: Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems",
         "doi": "https://doi.org/10.1145/3411764.3445608",
-        "pdf": "pdf/007.pdf"
+        "pdf": "pdf/jung2021good.pdf"
     },
     {
-        "id": 6,
+        "id": "kim2021cheersbot",
         "title": "Cheersbot: Drinking Companion Robot That Provides Physical/Auditory Interaction to Improve Loneliness",
         "authors": "Chaewon Kim, Yugyeong Jung, Gyuwon Jung, Woontack Woo, Uichin Lee",
         "year": "2021",
         "journal": "한국 HCI 학회 학술대회, 2021",
         "doi": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10530277",
-        "pdf": "pdf/006.pdf"
+        "pdf": "pdf/kim2021cheersbot.pdf"
     },
     {
-        "id": 5,
+        "id": "sun2020beactive",
         "title": "BeActive: Encouraging Physical Activities with Just-in-time Health Intervention and Micro Financial Incentives",
         "authors": "Juho Sun, Sangkeun Park, Gyuwon Jung, Yong Jeong, Uichin Lee, Kyong-Mee Chung, Changseok Lee, Heewon Kim, Suhyon Ahn, Ahsan Khandoker, Leontios Hadjileontiadis",
         "year": "2020",
         "journal": "AsianCHI '20: Proceedings of the 2020 Symposium on Emerging Research from Asia and on Asian Contexts and Cultures",
         "doi": "https://doi.org/10.1145/3391203.3391206",
-        "pdf": "pdf/005.pdf"
+        "pdf": "pdf/sun2020beactive.pdf"
     },
     {
-        "id": 4,
+        "id": "jung2020too",
         "title": "Too Much Information: Assessing Privacy Risks of Contact Trace Data Disclosure on People With COVID-19 in South Korea",
         "authors": "Gyuwon Jung, Hyunsoo Lee, Auk Kim, Uichin Lee",
         "year": "2020",
         "journal": "Frontiers in Public Health, Volume 8",
         "doi": "https://doi.org/10.3389/fpubh.2020.00305",
-        "pdf": "pdf/004.pdf"
+        "pdf": "pdf/jung2020too.pdf"
     },
     {
-        "id": 3,
+        "id": "jung2017moms",
         "title": "Mom's Tray: Real-Time Dietary Monitoring System",
         "authors": "Gyuwon Jung, Andrzej Zarzycki, Ji-Hyun Lee",
         "year": "2017",
         "journal": "SA '17: SIGGRAPH Asia 2017 Mobile Graphics & Interactive Applications",
         "doi": "https://doi.org/10.1145/3132787.3139196",
-        "pdf": "pdf/003.pdf"
+        "pdf": "pdf/jung2017moms.pdf"
     },
     {
-        "id": 2,
+        "id": "kim2017lets",
         "title": "Let's FOCUS: Mitigating Mobile Phone Use in College Classrooms",
         "authors": "Inyeop Kim, Gyuwon Jung, Hayoung Jung, Minsam Ko, Uichin Lee",
         "year": "2017",
         "journal": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Volume 1, Issue 3",
         "doi": "https://doi.org/10.1145/3130928",
-        "pdf": "pdf/002.pdf"
+        "pdf": "pdf/kim2017lets.pdf"
     },
     {
-        "id": 1,
+        "id": "kim2017location",
         "title": "Let's FOCUS: Location-Based Intervention Tool to Mitigate Phone Use in College Classrooms",
         "authors": "Inyeop Kim, Gyuwon Jung, Hayoung Jung, Minsam Ko, Uichin Lee",
         "year": "2017",
         "journal": "UbiComp '17: Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium on Wearable Computers",
         "doi": "https://doi.org/10.1145/3123024.3123165",
-        "pdf": "pdf/001.pdf"
+        "pdf": "pdf/kim2017location.pdf"
     },
     {
-        "id": 0,
+        "id": "jung2017understanding",
         "title": "Understanding Smartphone Usage during the University Class And Exploring Design Factors of Intervention System to Promote Concentration in Class",
         "authors": "Gyuwon Jung, Inyeop Kim, Hayoung Jung, Uichin Lee",
         "year": "2017",
         "journal": "한국 HCI 학회 학술대회, 2017",
         "doi": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07122519",
-        "pdf": "pdf/000.pdf"
+        "pdf": "pdf/jung2017understanding.pdf"
     }
 ]
