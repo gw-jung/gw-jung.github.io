@@ -1,5 +1,23 @@
 [
     {
+        "id": "lee2025imu2img",
+        "title": "IMU2IMG: IMU in the Language of Vision Foundation Models",
+        "authors": "Sun Kyung Lee, Se Won Oh, Gyuwon Jung, Hyuntae Jeong, Seungeun Chung, Jeong Mook Lim, Kyoung Ju Noh",
+        "year": "2025",
+        "journal": "UbiComp Companion '25: Companion of the 2025 ACM International Joint Conference on Pervasive and Ubiquitous Computing",
+        "doi": "https://doi.org/10.1145/3714394.3756208",
+        "pdf": "pdf/#"
+    },
+    {
+        "id": "oh2025understanding",
+        "title": "Understanding Human Daily Experience Through Continuous Sensing: ETRI Lifelog Dataset 2024",
+        "authors": "Se Won Oh, Hyuntae Jeong, Seungeun Chung, Jeong Mook Lim, Kyoung Ju Noh, Sun kyung Lee, Gyuwon Jung",
+        "year": "2025",
+        "journal": "arXiv preprint arXiv:2508.03698",
+        "doi": "https://arxiv.org/abs/2508.03698",
+        "pdf": "pdf/#"
+    },
+    {
         "id": "jung2025designing",
         "title": "Designing a Visual Analytics Tool to Support Data Analysis Tasks of Digital Mental Health Interventions: Case Study",
         "authors": "Gyuwon Jung, Heejeong Lim, Kyungsik Han, Hyungsook Kim, Uichin Lee",
@@ -34,6 +52,15 @@
         "journal": "CHI '25: Proceedings of the CHI Conference on Human Factors in Computing Systems",
         "doi": "https://doi.org/10.1145/3706598.3713730",
         "pdf": "pdf/jung2025counterstress.pdf"
+    },
+    {
+        "id": "jeong2025LLM",
+        "title": "LLM-Based Healthcare AI: Research Trends and Challenges",
+        "authors": "Hyuntae Jeong, Jeong Mook Lim, Se Won Oh, Kyoungju Noh, Seungeun Chung, Sunkyung Lee, Gyuwon Jung",
+        "year": "2025",
+        "journal": "Electronics and Telecommunications Trends",
+        "doi": "https://doi.org/10.22648/ETRI.2025.J.400305",
+        "pdf": "pdf/#"
     },
     {
         "id": "jung2024counterfactual",
