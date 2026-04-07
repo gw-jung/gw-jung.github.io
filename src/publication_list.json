@@ -1,12 +1,30 @@
 [
     {
+        "id": "lee2026what",
+        "title": "What if I Were?: Synthetic Lived Experience based on Generative Models",
+        "authors": "Sun Kyung Lee, Hyuntae Jeong, Se Won Oh, Jeong Mook Lim, Kyoung Ju Noh, Seungeun Chung, Gyuwon Jung",
+        "year": "2026",
+        "journal": "CHI EA '26: CHI Conference on Human Factors in Computing Systems Extended Abstracts",
+        "doi": "#",
+        "pdf": "pdf/lee2026what.pdf"
+    },
+    {
+        "id": "lee2026what-if",
+        "title": "What-If: Supporting Smartphone Self-Regulation through Counterfactual Future Narratives",
+        "authors": "Haeun Lee, Jaehun Huh, Sungwoo Han, Gyuwon Jung, Jaejeung Kim",
+        "year": "2026",
+        "journal": "CHI EA '26: CHI Conference on Human Factors in Computing Systems Extended Abstracts",
+        "doi": "#",
+        "pdf": "pdf/lee2026what-if.pdf"
+    },
+    {
         "id": "lee2025imu2img",
         "title": "IMU2IMG: IMU in the Language of Vision Foundation Models",
         "authors": "Sun Kyung Lee, Se Won Oh, Gyuwon Jung, Hyuntae Jeong, Seungeun Chung, Jeong Mook Lim, Kyoung Ju Noh",
         "year": "2025",
         "journal": "UbiComp Companion '25: Companion of the 2025 ACM International Joint Conference on Pervasive and Ubiquitous Computing",
         "doi": "https://doi.org/10.1145/3714394.3756208",
-        "pdf": "pdf/#"
+        "pdf": "pdf/lee2025imu2img.pdf"
     },
     {
         "id": "oh2025understanding",
@@ -15,7 +33,7 @@
         "year": "2025",
         "journal": "arXiv preprint arXiv:2508.03698",
         "doi": "https://arxiv.org/abs/2508.03698",
-        "pdf": "pdf/#"
+        "pdf": "pdf/oh2025understanding.pdf"
     },
     {
         "id": "jung2025designing",
@@ -60,7 +78,7 @@
         "year": "2025",
         "journal": "Electronics and Telecommunications Trends",
         "doi": "https://doi.org/10.22648/ETRI.2025.J.400305",
-        "pdf": "pdf/#"
+        "pdf": "pdf/jeong2025LLM.pdf"
     },
     {
         "id": "jung2024counterfactual",
