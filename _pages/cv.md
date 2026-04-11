@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<div class="wordwrap">You can download my CV <a href="{{ base_path }}/pdf/cv-gyuwon-2026-04.pdf">here</a>.</div>
+<div class="wordwrap">You can download my CV <a href="{{ base_path }}/pdf/cv-gyuwon.pdf">here</a>.</div>
 
 {% include base_path %}
 
