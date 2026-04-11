@@ -25,7 +25,7 @@ What's New
   <tr style="border: none;">
     <td style="width:20%; vertical-align: top; border: none; padding: 10px 5px; font-size: inherit; color: inherit; line-height: inherit;">Apr 2026</td>
     <td style="border: none; padding: 10px 5px; font-size: inherit; color: inherit; line-height: inherit;">
-      Attend <a href="https://chi2026.acm.org/">CHI 2026</a> to present two posters and one workshop paper while serving as a session chair.
+      Attend <a href="https://chi2026.acm.org/">CHI 2026</a> with two posters and one workshop paper while serving as a session chair.
     </td>
   </tr>
   <tr style="border: none;">
