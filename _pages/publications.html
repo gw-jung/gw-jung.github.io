@@ -1,0 +1,70 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on my <a href="{{site.author.googlescholar}}">Google Scholar profile</a>.</div>
+{% endif %}
+
+{% include base_path %}
+
+{% if site.data.publications %}
+  <div class="archive" style="padding-left: 0; width: 100%; text-align: left;">
+    
+    {% assign selected_pubs = site.data.publications | where: "selected", true %}
+    {% if selected_pubs.size > 0 %}
+      <h2 style="margin-top: 1em; margin-bottom: 0.8em; font-size: 1.5em; border-bottom: 2px solid #333; padding-bottom: 10px;">
+        Selected Publications
+      </h2>
+      {% for pub in selected_pubs %}
+        <div style="padding: 1em 0; border-bottom: 1px solid rgba(128, 128, 128, 0.2);">
+          <a href="{% if pub.doi != '#' %}{{ pub.doi }}{% else %}#{% endif %}" style="font-weight: bold; font-size: 1.1em; display: inline-block; margin-bottom: 2px;">
+            {{ pub.title }}
+          </a>
+          <div style="margin-bottom: 2px;">
+            {{ pub.authors | replace: "Gyuwon Jung", "<strong>Gyuwon Jung</strong>" }}
+          </div>
+          <div style="font-style: italic; margin-bottom: 4px;">
+            {{ pub.journal }} ({{ pub.year }})
+          </div>
+          {% if pub.pdf %}
+            <a href="{{ base_path }}/pdf/{{ pub.pdf | remove: 'pdf/' }}" target="_blank" style="text-decoration: underline;">[PDF]</a>
+          {% endif %}
+        </div>
+      {% endfor %}
+      <div style="margin-top: 4em;"></div> {% endif %}
+
+    <h2 style="margin-bottom: 0.8em; font-size: 1.5em; border-bottom: 2px solid #333; padding-bottom: 10px;">
+      All Publications
+    </h2>
+    {% assign grouped_pubs = site.data.publications | group_by: 'year' %}
+    {% assign sorted_years = grouped_pubs | sort: 'name' | reverse %}
+
+    {% for year_group in sorted_years %}
+      <h3 style="margin-top: 2em; margin-bottom: 0.5em; font-size: 1.2em; border-bottom: 1px solid #eee; padding-bottom: 5px;">
+        {{ year_group.name }}
+      </h3>
+      {% for pub in year_group.items %}
+        <div style="padding: 0.8em 0; border-bottom: 1px solid rgba(128, 128, 128, 0.1);">
+          <a href="{% if pub.doi != '#' %}{{ pub.doi }}{% else %}#{% endif %}" style="font-weight: bold; font-size: 1.0em; display: inline-block; margin-bottom: 2px;">
+            {{ pub.title }}
+          </a>
+          <div style="margin-bottom: 2px; font-size: 0.95em;">
+            {{ pub.authors | replace: "Gyuwon Jung", "<strong>Gyuwon Jung</strong>" }}
+          </div>
+          <div style="font-style: italic; margin-bottom: 4px; font-size: 0.95em;">
+            {{ pub.journal }}
+          </div>
+          {% if pub.pdf %}
+            <a href="{{ base_path }}/pdf/{{ pub.pdf | remove: 'pdf/' }}" target="_blank" style="text-decoration: underline; font-size: 0.9em;">[PDF]</a>
+          {% endif %}
+        </div>
+      {% endfor %}
+    {% endfor %}
+  </div>
+{% else %}
+  <p>No publications found in _data/publications.json.</p>
+{% endif %}
